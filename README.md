@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👓 About Me:
 🚀 Cybersecurity & AI Engineer<br>🔭 I’m currently working on<br>Building AI/ML-powered systems and applying them to real-world security and data problems, including anomaly detection and intelligent automation.<br>🤝 I’m looking to collaborate on<br>Projects involving Machine Learning, Data Science, and Cybersecurity, especially where AI can enhance decision-making and system intelligence.<br>🆘 I’m looking for help with<br>Designing scalable ML pipelines, improving model performance, and integrating AI models into practical applications.<br>🌱 I’m currently learning<br>Machine Learning, Deep Learning, and Cybersecurity fundamentals, focusing on building efficient and impactful systems.<br>💬 Ask me about<br>AI/ML basics, cybersecurity concepts, and project building from scratch.<br>⚡ Fun fact<br>I enjoy combining AI intelligence with real-world problem solving to build smarter and more adaptive systems 🤖
 
 
