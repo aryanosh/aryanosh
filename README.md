@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 Cybersecurity & AI Engineer <br><br>💡 Building intelligent backend systems using AI, cloud, and automation — with a focus on scalable, real-world applications<br><br>👨‍💻 About Me<br>🔭 I’m currently working on<br>Developing backend systems (FastAPI, PostgreSQL) and integrating AI capabilities (LLMs, APIs, automation) into deployable applications.<br>🤝 I’m looking to collaborate on<br>AI-powered applications, backend systems, and cloud-based projects, especially those involving LLMs, automation, or security use-cases.<br>🆘 I’m looking for help with<br>Designing scalable AI systems, improving deployment workflows (Docker, CI/CD), and working with cloud infrastructure (AWS).<br>🌱 I’m currently learning<br>AI Engineering (LLMs, RAG, agents), Backend Development, and Cloud & DevOps (Docker, AWS, CI/CD) along with Cybersecurity fundamentals.<br>💬 Ask me about<br>Backend APIs, AI integration, Docker basics, and getting started with AI engineering.<br>⚡ Fun fact<br>I enjoy building systems end-to-end — from API → AI → deployment → security.
 
 
