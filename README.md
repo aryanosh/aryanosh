@@ -12,7 +12,6 @@ Final-year CS student (Cybersecurity specialisation) actively targeting backend 
 - **AI Integration** — RAG pipelines, LLM APIs, agent workflows, vector stores (ChromaDB)
 - **Security-aware Engineering** — JWT, API gateway design, input validation, secrets management
 - **DevOps Basics** — Docker, GitHub Actions, AWS (EC2, S3)
-- **Security-aware Engineering** — JWT, API gateway design, input validation, secrets management
 
 ---
 
