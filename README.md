@@ -1,8 +1,8 @@
 # Hi, I'm Aryan Revankar
 
-Backend & AI Engineer (Cybersecurity Specialization) — building production-grade systems with FastAPI, LLMs, and applied security.
+Backend & AI Engineer — building production-grade systems with FastAPI, LLMs, and applied security.
 
-Final-year CS student (Cybersecurity specialization) actively targeting backend and AI engineering roles.
+Final-year CS student (Cybersecurity specialisation) actively targeting backend and AI engineering roles.
 
 ---
 
