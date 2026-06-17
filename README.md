@@ -1,24 +1,26 @@
 # Hi, I'm Aryan Revankar
-Cybersecurity Engineer — building secure, production-grade systems with applied cryptography, network security, and backend engineering.
-Final-year CS student (Cybersecurity specialisation) actively targeting cybersecurity and security engineering roles.
+Cybersecurity × AI × Backend Engineer — building secure, intelligent, production-grade systems.
+Final-year CS student (Cybersecurity specialisation) with a Minor in AI, targeting roles at the intersection of security engineering, AI integration, and backend development.
 
 ---
 
 ## 🛡️ What I Do
 - **Cybersecurity** — network security, applied cryptography, digital forensics, malware/static APK analysis, vulnerability assessment
-- **Security-aware Backend Engineering** — REST APIs, JWT auth, API gateway design, input validation, secrets management with FastAPI + PostgreSQL
+- **AI Integration** — RAG pipelines, LLM APIs, agent workflows, vector stores (ChromaDB), local + cloud model routing
+- **Backend Engineering** — REST APIs, JWT auth, API gateway design, input validation, secrets management with FastAPI + PostgreSQL
 - **Forensics & Compliance** — static C2 extraction, legal mapping (IT Act/IPC) for cybercrime intelligence tooling
 - **DevOps Basics** — Docker, GitHub Actions, AWS (EC2, S3)
 
 ---
 
 ## 🔭 Currently Building
-ThreatPrint — a forensic APK intelligence platform for cybercrime investigation, featuring static C2 extraction and bilingual FIR generation mapped to IT Act/IPC sections.
+- **ThreatPrint** — forensic APK intelligence platform for cybercrime investigation: static C2 extraction, bilingual FIR generation mapped to IT Act/IPC sections
+- **Pflow** — local-first AI workflow automation engine with a hybrid Ollama/Gemini router, React + FastAPI + SQLite, React Flow canvas
 
 ---
 
 ## 💬 Ask Me About
-Network security, applied cryptography, digital forensics, FastAPI, backend security patterns.
+Network security, applied cryptography, digital forensics, LLM integration, FastAPI, backend security patterns.
 
 ---
 
@@ -36,6 +38,7 @@ Network security, applied cryptography, digital forensics, FastAPI, backend secu
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
