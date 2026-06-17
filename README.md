@@ -1,6 +1,6 @@
 # Hi, I'm Aryan Revankar
 Cybersecurity × AI × Backend Engineer — building secure, intelligent, production-grade systems.
-Final-year CS student (Cybersecurity specialisation) with a Minor in AI, targeting roles at the intersection of security engineering, AI integration, and backend development.
+Final-year CS student (Cybersecurity specialisation) with a Major in AI, targeting roles at the intersection of security engineering, AI integration, and backend development.
 
 ---
 
