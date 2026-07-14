@@ -8,7 +8,6 @@ Final-year CS student (Cybersecurity specialisation) with a Major in AI, targeti
 - **Cybersecurity** — network security, applied cryptography, digital forensics, malware/static APK analysis, vulnerability assessment
 - **AI Integration** — RAG pipelines, LLM APIs, agent workflows, vector stores (ChromaDB), local + cloud model routing
 - **Backend Engineering** — REST APIs, JWT auth, API gateway design, input validation, secrets management with FastAPI + PostgreSQL
-- **Forensics & Compliance** — static C2 extraction, legal mapping (IT Act/IPC) for cybercrime intelligence tooling
 - **DevOps Basics** — Docker, GitHub Actions, AWS (EC2, S3)
 
 ---
