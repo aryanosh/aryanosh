@@ -13,9 +13,8 @@ Final-year CS student (Cybersecurity specialisation) with a Major in AI, targeti
 ---
 
 ## 🔭 Currently Building
-- **ThreatPrint** — forensic APK intelligence platform for cybercrime investigation: static C2 extraction, bilingual FIR generation mapped to IT Act/IPC sections
 - **Pflow** — local-first AI workflow automation engine with a hybrid Ollama/Gemini router, React + FastAPI + SQLite, React Flow canvas
-
+- 
 ---
 
 ## 💬 Ask Me About
