@@ -12,10 +12,6 @@ Final-year CS student (Cybersecurity specialisation) with a Major in AI, targeti
 
 ---
 
-## 🔭 Currently Building
-- **Pflow** — local-first AI workflow automation engine with a hybrid Ollama/Gemini router, React + FastAPI + SQLite, React Flow canvas
----
-
 ## 💬 Ask Me About
 Network security, applied cryptography, digital forensics, LLM integration, FastAPI, backend security patterns.
 
